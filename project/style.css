@@ -1,0 +1,105 @@
+img{
+    width: 10rem;
+}
+header{
+    background-image:url('images/Approach.jpeg');
+    background-color: linear-gradient(rgb(48, 46, 46) );
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    -webkit-background-size:cover ;
+    -moz-background-size:cover ;
+    -o-background-size:cover ;
+    height: 35rem;
+    
+}
+.wisdom{
+    border-radius: 50%;
+    width: 17rem;
+    height: 17rem;
+}
+.panford{
+    border-radius: 50%;
+    width: 6rem;
+    height: 6rem;
+}
+.dzifa{
+   height: 32rem;
+}
+nav{
+    list-style: none;
+}
+
+
+
+.learn{
+    margin-left: 38rem;
+    margin-top: 2rem;
+}
+input{
+    width: 30rem;
+}
+
+.dzifa{
+    background-image:url('images/contact.jpeg');
+    background-color: linear-gradient(rgb(48, 46, 46) );
+
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    -webkit-background-size:cover ;
+    -moz-background-size:cover ;
+    -o-background-size:cover ;
+    height: 32rem;
+}
+
+ container {
+    background-image:url('images/img\ 5.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    -webkit-background-size:cover ;
+    -moz-background-size:cover ;
+    -o-background-size:cover ;
+    height: 35rem;
+}
+
+.weezy {
+    background-image:url('images/academic.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    -webkit-background-size:cover ;
+    -moz-background-size:cover ;
+    -o-background-size:cover ;
+    height: 28rem;
+}
+
+.approach {
+    background-image:url('images/teaching.jpeg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    -webkit-background-size:cover ;
+    -moz-background-size:cover ;
+    -o-background-size:cover ;
+    height: 28rem;
+}
+
+
+.book {
+    background-image:url('images/book.jpeg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    -webkit-background-size:cover ;
+    -moz-background-size:cover ;
+    -o-background-size:cover ;
+    height: 28rem;
+}
